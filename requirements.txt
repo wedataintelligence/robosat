@@ -296,7 +296,7 @@ rasterio==1.0.23 \
     --hash=sha256:abc051353c2b5238bef201502c67a2fb188a92c2779f67d021f570389f22c77b \
     --hash=sha256:c36eaee43268fd15f4f625c688aef114b94fce69b7bd8a268f5db7d9535d2bb0 \
     --hash=sha256:d1624ab6bb98df71a1399a1f3ca9d9659f19151f6eee352aae4e17d14ce5c7cd
-requests==2.22.0 \
+requests==2.31.0 \
     --hash=sha256:11e007a8a2aa0323f5a921e9e6a2d7e4e67d9877e85773fba9ba6419025cbeb4 \
     --hash=sha256:9cf5292fcd0f598c671cfc1e0d7d1a7f13bb8085e9a590f48c010551dc6c4b31
 rtree==0.8.3 \
