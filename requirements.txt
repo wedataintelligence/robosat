@@ -47,7 +47,7 @@ flask==1.0.3 \
 geojson==2.4.1 \
     --hash=sha256:b175e00a76d923d6e7409de0784c147adcdd6e04b311b1d405895a4db3612c9d \
     --hash=sha256:b2bfb5c8e6b4b0c55dd139996317145aa8526146b3f8570586f9613c527a648a
-idna==2.8 \
+idna==3.7 \
     --hash=sha256:c357b3f628cf53ae2c4c05627ecc484553142ca23264e593d327bcde5e9c3407 \
     --hash=sha256:ea8b7f6188e6fa117537c3df7da9fc686d485087abf6ac197f9c46432f7e4a3c \
     # via requests
