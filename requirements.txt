@@ -346,7 +346,7 @@ supermercado==0.0.5 \
 toml==0.10.0 \
     --hash=sha256:229f81c57791a41d65e399fc06bf0848bab550a9dfd5ed66df18ce5f05e73d5c \
     --hash=sha256:235682dd292d5899d361a811df37e04a8828a5b1da3115886b73cf81ebc9100e
-tqdm==4.32.1 \
+tqdm==4.66.3 \
     --hash=sha256:0a860bf2683fdbb4812fe539a6c22ea3f1777843ea985cb8c3807db448a0f7ab \
     --hash=sha256:e288416eecd4df19d12407d0c913cbf77aa8009d7fddb18f632aded3bdbdda6b
 urllib3==1.25.3 \
